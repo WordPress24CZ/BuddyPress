@@ -1,2 +1,24 @@
-# BuddyPress
-Aimed at site builders &amp; developers, BuddyPress is focused on ease of integration, ease of use, and extensibility. It is deliberately powerful yet unbelievably simple social network software, built by contributors to WordPress.
+# Czech translation for WordPress plugin BuddyPress
+
+
+## Requirements
+
+* [WordPress Plugin](https://wordpress.org/plugins/buddypress/)
+
+## Downloads
+
+* [cs.wordpress.org website](https://translate.wordpress.org/locale/cs/default/wp-plugins/buddypress/) (Recommended)
+* [WP24 website](https://www.wp24.cz/buddypress)
+* [Github repository](https://github.com/WordPress24CZ/BuddyPress/releases) (Latest)
+
+## Installation
+
+1. Unpack the downloaded archive.
+2. Place the content of unpacked folders (`/wp-content/`, `/languages/`, `/plugins/`) into same folders, which are located in
+   your WordPress root. Replace all files if prompted.
+   
+## Support
+
+* [wp24.cz](https://www.wp24.cz)
+* [ccow.cz](https://ccow.cz/)
+* [jkstudio.cz](https://www.jkstudio.cz)
